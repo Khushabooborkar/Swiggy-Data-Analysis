@@ -1,4 +1,4 @@
-# Swiggy Data Analysis
+# Swiggy Sales Analysis
 
 This project analyzes Swiggy Sales Analysis data using Python and Google Colab.
 
